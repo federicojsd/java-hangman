@@ -1,0 +1,9 @@
+color
+azul
+rojo
+amarillo
+verde
+turquesa
+violeta
+rosado
+
